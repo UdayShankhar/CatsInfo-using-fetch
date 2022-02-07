@@ -1,0 +1,27 @@
+body{
+    color: rgb(10, 10, 10);
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Pacifico', cursive;
+    font-size: 20px;
+}
+.heading-container{
+    text-align: center;
+    margin-top: 20px;
+    background: linear-gradient(to bottom,rgb(0, 0, 0))
+}
+.main-container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: left;
+    gap: 1em;
+    padding: 0.5em;
+    margin: 0 auto;
+    background: linear-gradient(to bottom,black);
+}
+.container{
+    background-color: rgb(209, 209, 209);
+}
+.blue{
+    font-size: 20px;
+}
